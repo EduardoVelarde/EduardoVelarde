@@ -1,9 +1,9 @@
 ### Hi there, My name is Eduardo 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 <br />
-<img src="https://user-images.githubusercontent.com/55457194/139198366-645097a6-659a-442b-b600-1221bed4220f.png" width="100%"></img> 
+<img src="https://user-images.githubusercontent.com/55457194/139365800-0e4eda85-6fc8-4343-9a12-7d988187fefa.png" width="100%"></img>  
 
 
-Im fullstack javascript programmer what doest that mean? im a expert using Javascript lengague in fronted and bacend services also testing most of my recent experience is working with framework based on javascript
+Im fullstack javascript programmer what doest that mean? im a expert using Javascript lengague in fronted and backend services also testing most of my recent experience is working with framework based on javascript
 <br />
 
 I have most of my personal project here those are public, you can see  my work
